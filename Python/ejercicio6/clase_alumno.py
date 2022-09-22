@@ -1,13 +1,23 @@
 #!/usr/bin/python3
-class Vehiculo:
-    color = "rojo"
-    ruedas = 4
-    puertas = 6
+class Alumno:
+    nombre = ""
+    nota = 10
+    
+    def setNombre(self, nombre):
+        self.nombre = nombre
 
-class Coche(Vehiculo):
-    velocidad = 120
-    cilidrada = 2000
+    def setNota(self, nota):
+        self.nota = nota
 
-coche = Coche()
-print ("Velocidad es: ", coche.velocidad)
-print ("Color es: ", coche.color)
+    def getNombre(seft):
+        return seft.nombre
+
+    def getNota(seft):
+        return seft.nota
+
+pedro = Alumno()
+pedro.setNombre("Pedro Sanchez")
+pedro.setNota(3)
+
+print ("El alumno ", pedro.getNombre(), 
+        " tiene una nota de ", pedro.getNota())
