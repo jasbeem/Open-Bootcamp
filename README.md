@@ -1,2 +1,2 @@
 # Open-Bootcamp
-Ejercicios de Python
+Ejercicios y certificaciones realizados en Open Bootcamp.
