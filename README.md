@@ -24,8 +24,8 @@ Ejercicios y certificaciones realizados en Open Bootcamp.
 
 
 ## Certificaciones 
-* [Conceptos de programación](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Conceptos%20de%20programaci%C3%B3n.pdf)
-* [Introducción a la programación](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Introduccion%20a%20la%20programacion.pdf)
-* [Javascript](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Javascript.pdf)
-* [HTML y CSS](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20HTML-CSS.pdf)
-* [Python](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Python.pdf)
+[x] [Conceptos de programación](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Conceptos%20de%20programaci%C3%B3n.pdf)
+[x] [Introducción a la programación](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Introduccion%20a%20la%20programacion.pdf)
+[x] [Javascript](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Javascript.pdf)
+[x] [HTML y CSS](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20HTML-CSS.pdf)
+[x] [Python](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Python.pdf)
