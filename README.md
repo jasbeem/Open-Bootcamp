@@ -29,3 +29,5 @@ Ejercicios y certificaciones realizados en Open Bootcamp.
 - [x] [Javascript](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Javascript.pdf)
 - [x] [HTML y CSS](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20HTML-CSS.pdf)
 - [x] [Python](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Python.pdf)
+- [x] [Laravel](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Laravel.pdf)
+- [x] [Docker](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Docker.pdf)
