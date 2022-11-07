@@ -31,4 +31,4 @@ Ejercicios y certificaciones realizados en Open Bootcamp.
 - [x] [Python](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Python.pdf)
 - [x] [Laravel](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Laravel.pdf)
 - [x] [Docker](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Docker.pdf)
-- [x] [Docker](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Git.pdf)
+- [x] [Git](https://github.com/jasbeem/Open-Bootcamp/blob/main/Certificados/Certificado%20-%20Git.pdf)
